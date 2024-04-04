@@ -69,5 +69,5 @@ Python, Linux Command Line Interface, Linux, SQL, Network Security.
 
 ### Certification:
 
-- Google Cybersecurity Professional Certification at Coursera, offered by Google ([Certificate](https://www.coursera.org/account/accomplishments/verify/B32UYCWS88DY)).
+- Google Cybersecurity Professional Certification at Coursera, offered by Google ([Certificate](https://coursera.org/share/e12b1f3d219d52c145446869cce92e94)).
 - Google IT Support Professional Certification at Coursera, offered by Google ([Certificate](https://www.coursera.org/account/accomplishments/verify/NYG22QJ9GJKA)).

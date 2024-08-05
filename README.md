@@ -7,7 +7,7 @@ Seeking a career transition into the cybersecurity field, leveraging my strong a
 [Plum Results](https://secure.plum.io/p/pgRq5DoGOipDJz7XloimeA)
 
 ### Projects:
-[SOAR Automation]((https://github.com/Tagurkrishna/SOC-Automation-Project))
+- **SOAR Automation**: [SOAR Automation](https://github.com/Tagurkrishna/SOC-Automation-Project)
 
 ### Skills:
 
@@ -15,7 +15,7 @@ Seeking a career transition into the cybersecurity field, leveraging my strong a
 Management, Communication, Problem Solving, Data Analysis, Data Annotation, Data Verification, Attention to Detail, Confidentiality, Process Improvement, Stakeholder Management, Data Analysis & Visualization, Team Coordination, Process Improvement, Customer Service, Customer-centric, Incident Dashboards Technology, Hippa Compliance, Security Frameworks Controls, Design Frameworks, Security Mindset, Packet Snippers, Intrusion Detection System (IDS).
 
 ### Tools:
-Microsoft Office, Word, Excel, Google Worksheet, SIEM Tools(Splunk, Chronicles).
+Microsoft Office, Word, Excel, Google Worksheet, SIEM Tools (Splunk, Chronicles), Shuffle, Wazuh, TheHive.
 
 ### Languages:
 Python, Linux Command Line Interface, Linux, SQL, Network Security.

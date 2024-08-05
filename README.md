@@ -6,6 +6,9 @@ Seeking a career transition into the cybersecurity field, leveraging my strong a
 ### Plum Results:
 [Plum Results](https://secure.plum.io/p/pgRq5DoGOipDJz7XloimeA)
 
+### Projects:
+[SOAR Automation]((https://github.com/Tagurkrishna/SOC-Automation-Project))
+
 ### Skills:
 
 #### Analytical Skills:

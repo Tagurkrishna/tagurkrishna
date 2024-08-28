@@ -11,6 +11,7 @@ Seeking a career transition into the cybersecurity field, leveraging my strong a
 
 ### Working Projects:
 - **SOAR EDR Project**
+- **Active Directory**
 
 ### Skills:
 

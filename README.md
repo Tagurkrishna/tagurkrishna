@@ -8,6 +8,7 @@ Seeking a career transition into the cybersecurity field, leveraging my strong a
 
 ### Projects:
 - **SOAR Automation**: [SOAR Automation](https://github.com/Tagurkrishna/SOC-Automation-Project)
+- **Home Lab Attacking a Windows system using Linux**:
 
 ### Working Projects:
 - **SOAR EDR Project**

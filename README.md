@@ -7,7 +7,7 @@ Seeking a career transition into the cybersecurity field, leveraging my strong a
 [Plum Results](https://secure.plum.io/p/pgRq5DoGOipDJz7XloimeA)
 
 ### Projects:
-- **SOAR Automation**: [SOAR Automation](https://github.com/Tagurkrishna/SOC-Automation-Project)
+- **SOC Automation**: [SOC Automation](https://github.com/Tagurkrishna/SOC-Automation-Project)
 - **Home Lab Attacking a Windows system using Linux**: [HOME Lab](https://github.com/Tagurkrishna/Home-Lab)
 
 ### Working Projects:

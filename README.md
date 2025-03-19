@@ -9,10 +9,10 @@ Seeking a career transition into the cybersecurity field, leveraging my strong a
 ### Projects:
 - **SOC Automation**: [SOC Automation](https://github.com/Tagurkrishna/SOC-Automation-Project)
 - **Home Lab Attacking a Windows system using Linux**: [HOME Lab](https://github.com/Tagurkrishna/Home-Lab)
+- **Active Directory**: [Active Directory](https://github.com/Tagurkrishna/Active-Directory)
 
 ### Working Projects:
 - **SOAR EDR Project**
-- **Active Directory**
 
 ### Skills:
 

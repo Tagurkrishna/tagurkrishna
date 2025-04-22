@@ -6,6 +6,19 @@ Seeking a career transition into the cybersecurity field, leveraging my strong a
 ### Plum Results:
 [Plum Results](https://secure.plum.io/p/pgRq5DoGOipDJz7XloimeA)
 
+### 🧠 Core Competencies
+
+- Risk Assessment & Analysis  
+- Threat & Vulnerability Management  
+- Security Frameworks (ISO 27001, NIST, SOC 2, GDPR)  
+- SIEM & SOAR Tools: Splunk, Chronicle, Wazuh, TheHive, Shuffle  
+- Incident Response & Investigations  
+- Packet Analysis (Suricata, Wireshark)  
+- Compliance & Audit Support  
+- Security Awareness & Documentation  
+- Network Security (TCP/IP, IDS/IPS, Proxies)  
+- Python, Linux CLI, SQL  
+
 ### Projects:
 - **SOC Automation**: [SOC Automation](https://github.com/Tagurkrishna/SOC-Automation-Project)
 - **Home Lab Attacking a Windows system using Linux**: [HOME Lab](https://github.com/Tagurkrishna/Home-Lab)

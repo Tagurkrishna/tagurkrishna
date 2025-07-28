@@ -1,44 +1,62 @@
 <h1>Hi, I'm Tagur Krishna Nethipudi! <br/><a href="https://github.com/tagurkrishnanethipudi">🎯 Cybersecurity Enthusiast | </a> <a href="https://www.linkedin.com/in/tagurkrishnanethipudi/">Threat Hunter | SOC Analyst | Blue Team</a></h1>
 
-### Goal
-Seeking a career transition into the cybersecurity field, leveraging my strong analytical skills and dedication to safeguarding digital assets in a Cyber Security environment. Eager to apply my passion for problem-solving and learn new technical skills to contribute effectively to cybersecurity operations.
+Welcome to my GitHub profile! I'm passionate about securing digital systems and building real-world cybersecurity tools and labs.
+
+## 🔹 Professional Summary
+
+I'm a passionate cybersecurity professional with hands-on experience in SOC tools, threat detection, and incident response. I build real-world labs, automate security workflows, and continuously upskill to defend systems and improve operational security.
+
+## 🎯 Career Goal
+
+With a background in data operations and technical support, I'm now transitioning into the cybersecurity field — driven by a strong interest in digital security and threat analysis. I aim to leverage my analytical mindset, stakeholder handling skills, and growing technical expertise to contribute meaningfully to security operations.
 
 ### Plum Results:
 [Plum Results](https://secure.plum.io/p/pgRq5DoGOipDJz7XloimeA)
 
+---
+
+**Technical Skills**
+
+- **SIEM & SOAR Tools:** Splunk, Chronicle, Wazuh, TheHive, Shuffle  
+- **Security Frameworks & Compliance:** MITRE ATT&CK, NIST CSF, HIPAA, Security Controls  
+- **Scripting & Analysis:** Python, SQL, Bash, Packet Sniffers (Wireshark), Zeek  
+- **Operating Systems & CLI:** Linux (Kali, Ubuntu), Windows CLI  
+- **Productivity & Collaboration:** Microsoft Office (Excel, Word), Google Workspace  
+- **Soft Skills:** Problem Solving, Communication, Stakeholder Management, Attention to Detail, Customer Centricity 
+
+---
+
 ### Projects:
-- **SOC Automation**: [SOC Automation](https://github.com/Tagurkrishna/SOC-Automation-Project)
-- **Home Lab Attacking a Windows system using Linux**: [HOME Lab](https://github.com/Tagurkrishna/Home-Lab)
-- **Active Directory**: [Active Directory](https://github.com/Tagurkrishna/Active-Directory)
+
+- 🔐 **SOC Automation** – Built automation playbooks using Shuffle and Wazuh for real-time alert triaging and IOC enrichment.  
+  [View Project](https://github.com/Tagurkrishna/SOC-Automation-Project)
+
+- 🧪 **Home Lab (Attack Simulation)** – Attacked Windows Active Directory from Kali Linux to simulate blue team defense scenarios.  
+  [View Project](https://github.com/Tagurkrishna/Home-Lab)
+
+- 🗂 **Active Directory Lab** – Configured AD, Group Policy, and user access controls. Practiced event monitoring and Kerberoasting attacks.  
+  [View Project](https://github.com/Tagurkrishna/Active-Directory)
 
 ### Working Projects:
-- **SS7 Stimulation Lab Mobile Networks(90 percentage complted)**
+- **SS7 Stimulation Lab Mobile Networks(90 percentage completed)**
 
-### Skills:
+## 📂 Portfolio & Resume
+  
+🌐 [Portfolio Website](https://tagurkrishna-portfolio-cybersecurity.vercel.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tagurkrishna/) | [GitHub](https://github.com/Tagurkrishna)
 
-#### Analytical Skills:
-Management, Communication, Problem Solving, Data Analysis, Data Annotation, Data Verification, Attention to Detail, Confidentiality, Process Improvement, Stakeholder Management, Data Analysis & Visualization, Team Coordination, Process Improvement, Customer Service, Customer-centric, Incident Dashboards Technology, Hippa Compliance, Security Frameworks Controls, Design Frameworks, Security Mindset, Packet Snippers, Intrusion Detection System (IDS).
+---
 
-### Tools:
-Microsoft Office, Word, Excel, Google Worksheet, SIEM Tools (Splunk, Chronicles), Shuffle, Wazuh, TheHive.
+## 🧠 Learning & Certifications
+- CompTIA Security+ (In Progress)
+- Google Cybersecurity Certificate (Completed)
+- Familiar with MITRE ATT&CK, NIST CSF, ISO 27001
+- Projects mapped to real-world frameworks
 
-### Languages:
-Python, Linux Command Line Interface, Linux, SQL, Network Security.
-
-### Internship:
-
-- Project on Data Analytics with Google India Pvt Ltd
-- Intern at Feed Monster Media as a content writer.
-
-### Achievements:
-
-- Received accolades and recognition as a good team player at Amazon.
-- The team’s top performer from February through March in Concentrix. And had the highest Platinum status from February to July.
-- Top of the class in project submission during the final academic year.
+---
 
 ### Education:
 
-- Google Cybersecurity Certificate – Google (Coursera).
 - B-Tech in Mechanical Engineering from Raghu Engineering College with First Class.
 
 ### Certification:

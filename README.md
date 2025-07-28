@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tagur Krishna Nethipudi! <br/><a href="https://github.com/tagurkrishnanethipudi">Programmer</a>, <a href="https://www.linkedin.com/in/tagurkrishnanethipudi/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Tagur Krishna Nethipudi! <br/><a href="https://github.com/tagurkrishnanethipudi">🎯 Cybersecurity Enthusiast | </a>, <a href="https://www.linkedin.com/in/tagurkrishnanethipudi/">Threat Hunter | SOC Analyst | Blue Team</a></h1>
 
 ### Goal
 Seeking a career transition into the cybersecurity field, leveraging my strong analytical skills and dedication to safeguarding digital assets in a Cyber Security environment. Eager to apply my passion for problem-solving and learn new technical skills to contribute effectively to cybersecurity operations.

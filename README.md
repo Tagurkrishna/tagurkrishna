@@ -12,7 +12,7 @@ Seeking a career transition into the cybersecurity field, leveraging my strong a
 - **Active Directory**: [Active Directory](https://github.com/Tagurkrishna/Active-Directory)
 
 ### Working Projects:
-- **SOAR EDR Project**
+- **SS7 Stimulation Lab Mobile Networks(90 percentage complted)**
 
 ### Skills:
 

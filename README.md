@@ -37,8 +37,8 @@ With a background in data operations and technical support, I'm now transitionin
 - 🗂 **Active Directory Lab** – Configured AD, Group Policy, and user access controls. Practiced event monitoring and Kerberoasting attacks.  
   [View Project](https://github.com/Tagurkrishna/Active-Directory)
 
-### Working Projects:
-- **SS7 Stimulation Lab Mobile Networks(90 percentage completed)**
+- 📡 **SS7 Mobile Telecom Simulation Lab** – Deployed a complete SS7 lab using **Osmocom** (STP, HLR, MSC, MGW) to simulate mobile core network operations. Configured signaling links, subscriber provisioning, and tested call/SMS flow.  
+  [View Project](https://github.com/Tagurkrishna/SS7-Simulation-Lab)
 
 ## 📂 Portfolio & Resume
   

@@ -61,5 +61,8 @@ With a background in data operations and technical support, I'm now transitionin
 
 ### Certification:
 
+- Splunk Certified Cybersecurity Defense Analyst (5001) (Exam Scheduled 13th Sep 2025)
+- ISC² Certified in Cybersecurity (CC) (Exam Scheduled on 29th Sep 2025)
+- Comptia Security+ (In Progress - Expected October 2025)
 - Google Cybersecurity Professional Certification at Coursera, offered by Google ([Certificate](https://coursera.org/share/e12b1f3d219d52c145446869cce92e94)).
 - Google IT Support Professional Certification at Coursera, offered by Google ([Certificate](https://www.coursera.org/account/accomplishments/verify/NYG22QJ9GJKA)).

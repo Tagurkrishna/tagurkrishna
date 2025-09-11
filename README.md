@@ -4,7 +4,9 @@ Welcome to my GitHub profile! I'm passionate about securing digital systems and 
 
 ## 🔹 Professional Summary
 
-I'm a passionate cybersecurity professional with hands-on experience in SOC tools, threat detection, and incident response. I build real-world labs, automate security workflows, and continuously upskill to defend systems and improve operational security.
+🚀 Cybersecurity Professional with ~2 years of hands-on experience in SOC operations, penetration testing, and threat hunting. Skilled in SIEM tools (Splunk, Chronicle, Wazuh), incident response, and automation with Python. Experienced in building advanced security labs (SS7 telecom security, Active Directory exploitation, SOC automation) and contributing to bug bounty programs with Samsung & Apple. Currently pursuing CompTIA Security+ and Splunk Certified Cybersecurity Defense Analyst to strengthen defensive security expertise.
+
+I use GitHub to share cybersecurity projects, labs, and automation scripts that reflect my learning journey and real-world problem-solving. Passionate about security operations, offensive testing, and building practical tools that can help teams improve detection and response.
 
 ## 🎯 Career Goal
 

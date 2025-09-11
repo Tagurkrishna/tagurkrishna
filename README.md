@@ -1,70 +1,92 @@
-<h1>Hi, I'm Tagur Krishna Nethipudi! <br/><a href="https://github.com/tagurkrishnanethipudi">🎯 Cybersecurity Enthusiast | </a> <a href="https://www.linkedin.com/in/tagurkrishnanethipudi/">Threat Hunter | SOC Analyst | Blue Team</a></h1>
-
-Welcome to my GitHub profile! I'm passionate about securing digital systems and building real-world cybersecurity tools and labs.
-
-## 🔹 Professional Summary
-
-🚀 Cybersecurity Professional with ~2 years of hands-on experience in SOC operations, penetration testing, and threat hunting. Skilled in SIEM tools (Splunk, Chronicle, Wazuh), incident response, and automation with Python. Experienced in building advanced security labs (SS7 telecom security, Active Directory exploitation, SOC automation) and contributing to bug bounty programs with Samsung & Apple. Currently pursuing CompTIA Security+ and Splunk Certified Cybersecurity Defense Analyst to strengthen defensive security expertise.
-
-I use GitHub to share cybersecurity projects, labs, and automation scripts that reflect my learning journey and real-world problem-solving. Passionate about security operations, offensive testing, and building practical tools that can help teams improve detection and response.
-
-## 🎯 Career Goal
-
-With a background in data operations and technical support, I'm now transitioning into the cybersecurity field — driven by a strong interest in digital security and threat analysis. I aim to leverage my analytical mindset, stakeholder handling skills, and growing technical expertise to contribute meaningfully to security operations.
-
-### Plum Results:
-[Plum Results](https://secure.plum.io/p/pgRq5DoGOipDJz7XloimeA)
+# 👋 Hi, I'm Tagur Nethipudi  
+**SOC Analyst | Bug Bounty Researcher (Samsung/Apple) | Security Automation Expert | Immediate Availability**
 
 ---
 
-**Technical Skills**
+## 🔹 About Me  
+I am a **Cybersecurity Professional** with ~2 years of hands-on experience in **SOC operations, penetration testing, and threat hunting**. My work includes:  
 
-- **SIEM & SOAR Tools:** Splunk, Chronicle, Wazuh, TheHive, Shuffle  
-- **Security Frameworks & Compliance:** MITRE ATT&CK, NIST CSF, HIPAA, Security Controls  
-- **Scripting & Analysis:** Python, SQL, Bash, Packet Sniffers (Wireshark), Zeek  
-- **Operating Systems & CLI:** Linux (Kali, Ubuntu), Windows CLI  
-- **Productivity & Collaboration:** Microsoft Office (Excel, Word), Google Workspace  
-- **Soft Skills:** Problem Solving, Communication, Stakeholder Management, Attention to Detail, Customer Centricity 
+✅ Monitoring and analyzing logs in **Splunk, Chronicle, and Wazuh**, achieving a **40% faster incident response time**  
+✅ Performing **incident response, IOC analysis, and vulnerability management** for enterprise environments  
+✅ Building advanced **cybersecurity labs** simulating **15+ attack vectors mapped to MITRE ATT&CK**  
+✅ **Valid vulnerability disclosures** to **Samsung Mobile Security & Apple Security Engineering**  
+✅ Cleared **TCS Cybersecurity Technical Assessment (2025)**  
+
+Currently pursuing **CompTIA Security+ (in progress)** and **Splunk Certified Cybersecurity Defense Analyst (scheduled Sep 13, 2025)**.  
 
 ---
 
-### Projects:
+## 🏆 Security Research & Responsible Disclosure  
+- 📱 **Samsung Mobile Security:** Reported valid vulnerabilities (2024–2025)  
+- 🍏 **Apple Security Engineering:** Bug bounty submissions under analysis (2024–2025)  
+- 🎯 **Focus Areas:** Mobile security bypasses, authentication flaws, privilege escalation  
 
-- 🔐 **SOC Automation** – Built automation playbooks using Shuffle and Wazuh for real-time alert triaging and IOC enrichment.  
-  [View Project](https://github.com/Tagurkrishna/SOC-Automation-Project)
+---
 
-- 🧪 **Home Lab (Attack Simulation)** – Attacked Windows Active Directory from Kali Linux to simulate blue team defense scenarios.  
-  [View Project](https://github.com/Tagurkrishna/Home-Lab)
+## 🛠 Skills & Tools  
+- **SIEM & Monitoring:** Splunk, Chronicle, Wazuh, Zeek, Suricata  
+- **Offensive Security:** Metasploit, Burp Suite, BloodHound, Mimikatz, Nmap  
+- **Defensive Security:** Threat Hunting, Incident Response, Malware Traffic Analysis  
+- **Cloud & Infra:** AWS Security, Docker/Container Security, Firewalls  
+- **Automation & Scripting:** Python, Bash, PowerShell, SQL  
+- **Frameworks:** MITRE ATT&CK, OWASP Top 10, ISO 27001, NIST CSF  
 
-- 🗂 **Active Directory Lab** – Configured AD, Group Policy, and user access controls. Practiced event monitoring and Kerberoasting attacks.  
-  [View Project](https://github.com/Tagurkrishna/Active-Directory)
+---
 
-- 📡 **SS7 Mobile Telecom Simulation Lab** – Deployed a complete SS7 lab using **Osmocom** (STP, HLR, MSC, MGW) to simulate mobile core network operations. Configured signaling links, subscriber provisioning, and tested call/SMS flow.  
-  [View Project](https://github.com/Tagurkrishna/SS7-Simulation-Lab)
+## 🎓 Certifications  
+- Google Cybersecurity Professional Certificate (2024) — [📄 View Certificate](https://coursera.org/share/e12b1f3d219d52c145446869cce92e94)  
+- Google IT Support Professional Certificate (2023) — [📄 View Certificate](https://www.coursera.org/account/accomplishments/verify/NYG22QJ9GJKA)  
+- **CompTIA Security+ (In Progress – Expected Oct 2025)**  
+- **Splunk Certified Cybersecurity Defense Analyst (Scheduled Sep 13, 2025)**
+- **ISC² Certified in Cybersecurity (CC) (Scheduled Sep 29, 2025)**
+- **TCS Cybersecurity Technical Assessment (Cleared – 2025)**  
 
-## 📂 Portfolio & Resume
-  
+---
+
+## 🚀 Featured Projects  
+
+### 🔐 SOC Automation Project  
+Automated alert triage using **Wazuh, TheHive, VirusTotal API**, reducing manual workload by **50%**.  
+- **Tools:** Wazuh, TheHive, Cortex, Splunk, Python  
+- [🔗 View Project](https://github.com/Tagurkrishna/SOC-Automation-Project)  
+
+---
+
+### 🧪 Home Lab – Attack Simulation  
+Built an end-to-end attack-defense simulation lab replicating enterprise networks.  
+- **Tools:** Kali Linux, Metasploit, Wireshark, Docker, Windows/Linux Servers  
+- [🔗 View Project](https://github.com/Tagurkrishna/Home-Lab)  
+
+---
+
+### 🗂 Active Directory Lab  
+Performed privilege escalation & lateral movement with **BloodHound, Mimikatz, Empire**.  
+- **Tools:** Windows Server, Active Directory, PowerShell, BloodHound, Mimikatz  
+- [🔗 View Project](https://github.com/Tagurkrishna/Active-Directory)  
+
+---
+
+### 📡 SS7 Mobile Telecom Simulation Lab  
+Simulated SS7 protocol vulnerabilities, intercepted signaling traffic, and documented security gaps.  
+- **Tools:** Wireshark, Linux, SS7 protocol stack, Docker  
+- [🔗 View Project](https://github.com/Tagurkrishna/SS7-Simulation-Lab)  
+
+---
+
+## 🌟 Achievements  
+- ⚡ Valid disclosures: **Samsung Mobile Security & Apple Security Engineering** (2024–2025)  
+- 🏅 **Amazon Recognition Award** for stakeholder collaboration & process improvement  
+- 🏆 **Concentrix Platinum Status** – top performer for 6 consecutive months (2022)  
+- 🎓 **TCS Cybersecurity Technical Assessment Cleared (2025)**  
+
+---
+
+## 🔹 Let's Connect!  
+📧 **Email:** tagur1420@gmail.com | 📱 **Phone:** +91-7036014201  
 🌐 [Portfolio Website](https://tagurkrishna-portfolio-cybersecurity.vercel.app/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tagurkrishna/) | [GitHub](https://github.com/Tagurkrishna)
+💼 [LinkedIn](https://linkedin.com/in/tagurkrishna) | 📊 [GitHub](https://github.com/Tagurkrishna)  
+🌍 **Status:** Open to relocation & international opportunities | **Availability:** Immediate  
 
 ---
 
-## 🧠 Learning & Certifications
-- CompTIA Security+ (In Progress)
-- Google Cybersecurity Certificate (Completed)
-- Familiar with MITRE ATT&CK, NIST CSF, ISO 27001
-- Projects mapped to real-world frameworks
-
----
-
-### Education:
-
-- B-Tech in Mechanical Engineering from Raghu Engineering College with First Class.
-
-### Certification:
-
-- Splunk Certified Cybersecurity Defense Analyst (5001) (Exam Scheduled 13th Sep 2025)
-- ISC² Certified in Cybersecurity (CC) (Exam Scheduled on 29th Sep 2025)
-- Comptia Security+ (In Progress - Expected October 2025)
-- Google Cybersecurity Professional Certification at Coursera, offered by Google ([Certificate](https://coursera.org/share/e12b1f3d219d52c145446869cce92e94)).
-- Google IT Support Professional Certification at Coursera, offered by Google ([Certificate](https://www.coursera.org/account/accomplishments/verify/NYG22QJ9GJKA)).
+⭐ *I share my cybersecurity projects, labs, and research here to demonstrate real-world skills and continuous learning.*  

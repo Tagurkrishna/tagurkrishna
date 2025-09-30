@@ -37,8 +37,8 @@ Currently pursuing **CompTIA Security+ (in progress)** and **Splunk Certified Cy
 - Google Cybersecurity Professional Certificate (2024) — [📄 View Certificate](https://coursera.org/share/e12b1f3d219d52c145446869cce92e94)  
 - Google IT Support Professional Certificate (2023) — [📄 View Certificate](https://www.coursera.org/account/accomplishments/verify/NYG22QJ9GJKA)  
 - **CompTIA Security+ (In Progress – Expected Oct 2025)**  
-- **Splunk Certified Cybersecurity Defense Analyst (Scheduled Sep 13, 2025)**
-- **ISC² Certified in Cybersecurity (CC) (Scheduled Sep 29, 2025)**
+- **Splunk Certified Cybersecurity Defense Analyst (Scheduled Oct 3, 2025)**
+- **ISC² Certified in Cybersecurity (CC) (Scheduled OCT 9, 2025)**
 - **TCS Cybersecurity Technical Assessment (Cleared – 2025)**  
 
 ---
